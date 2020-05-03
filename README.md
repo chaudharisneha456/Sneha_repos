@@ -1,2 +1,2 @@
-# Sneha_repos
-This is a repository
+a = list(map(int,input().split()))
+print(a)
